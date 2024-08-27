@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+body{
+    margin-top: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightcoral;
+    text-align: center;
+
+}
+.painel{
+    margin: auto;
+    width: 90%;
+    height: 60%;
+    background-color: white;
+    border-radius: 20px;
+  
+}
+img{
+    height: 30em;
+    width: 19em;
+}
+#sim, #nao{
+    width: 8em;
+    height: 2em;
+    border-radius: 10px;
+    margin:1em 0;
+    background-color: lightcoral;
+    color: black;
+
+}
+#nao{
+    position:absolute ;
+}
+#sim{
+    margin-left: 5em;
+}
+.botoes{
+  display: flex;
+  gap: 1em;
+
+    
+}
