@@ -41,7 +41,86 @@ img{
 }
 .botoes{
   display: flex;
+ 
   gap: 1em;
 
     
+}
+@media only screen and (min-width: 360px)  {
+    #sim{
+        margin-left: 3em;
+        margin-right: 2em;
+    } 
+    
+}
+@media only screen and (min-width: 400px)  {
+    #sim{
+        margin-left: 4em;
+        margin-right: 3em;
+    } 
+    
+}
+@media only screen and (min-width: 500px)  {
+    #sim{
+        margin-left: 6em;
+        margin-right: 5em;
+    } 
+    
+}
+@media only screen and (min-width: 700px)  {
+    #sim{
+        margin-left: 13em;
+        margin-right: 5em;
+    } 
+
+}
+
+@media only screen and (min-width: 600px)  {
+    #sim{
+        margin-left: 10em;
+        margin-right: 5em;
+    } 
+
+}
+@media only screen and (min-width: 800px)  {
+    #sim{
+        margin-left: 17em;
+        margin-right: 5em;
+    } 
+
+}
+@media only screen and (min-width: 950px)  {
+    #sim{
+        margin-left: 24em;
+        margin-right: 5em;
+    } 
+
+}
+@media only screen and (min-width: 1200px)  {
+    #sim{
+        margin-left: 30em;
+        margin-right: 5em;
+    } 
+
+}
+@media only screen and (min-width: 1280px)  {
+    #sim{
+        margin-left: 34em;
+        margin-right: 5em;
+    } 
+
+}
+@media only screen and (min-width: 1300px)  {
+    #sim{
+        margin-left: 37em;
+        margin-right: 5em;
+    } 
+
+}
+@media only screen and (min-width: 1400px)  {
+    #sim{
+        margin-left: 41em;
+        margin-right: 5em;
+    } 
+
 }
